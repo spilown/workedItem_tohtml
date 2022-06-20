@@ -1,0 +1,10 @@
+{
+  "name": "print_worked_issue_list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "csv-parse": "^5.2.0"
+  }
+}
